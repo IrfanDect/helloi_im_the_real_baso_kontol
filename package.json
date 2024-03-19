@@ -1,0 +1,30 @@
+{
+  "name": "the_real_baso_kontol05",
+  "version": "5.2.4",
+  "description": "hello im the real baso kontol",
+  "main": "example",
+  "scripts": {
+    "test": "the_ral"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IrfanDect/helloi_im_the_real_baso_kontol"
+  },
+  "keywords": [
+    "hello word"
+  ],
+  "author": "hacker88830",
+  "license": "Type license() to see the full license text",
+  "bugs": {
+    "url": "https://github.com/IrfanDect/helloi_im_the_real_baso_kontol/issues"
+  },
+  "homepage": "https://github.com/IrfanDect/helloi_im_the_real_baso_kontol#readme",
+  "dependencies": {
+    "baso_kontol_real": "^1.1.4",
+    "fbs_real": "^1.4.4",
+    "fbs_real01": "^1.2.3",
+    "fbs_real02": "^1.1.5",
+    "tea-indra": "^1.1.4",
+    "the_real_baso_kontol04": "^1.6.3"
+  }
+}
